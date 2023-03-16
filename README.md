@@ -1,4 +1,4 @@
-### Olá, Me chamo Lucas Gabriel Ferreira. Estudante de Ciências e Tecnologias com ênfase em computação, atuando há 1 no mercado de tecnologias e desenvolvimentos. Experiência com SQL e python.
+### Olá, Me chamo Lucas Gabriel Ferreira. Estudante de Ciências e Tecnologias com ênfase em computação, atuando há 1 ano no mercado de tecnologias e desenvolvimentos. Experiência com SQL e python.
 
 #### Algumas informações importantes 
 
